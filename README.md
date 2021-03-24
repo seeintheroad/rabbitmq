@@ -1,1 +1,3 @@
-# rebbitmq
+# rabbitmq
+
+该项目是使用的springboot+rabbitmq。rabbitmq的linux搭建文件详细见rabbitmq文件夹下
